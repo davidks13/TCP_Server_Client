@@ -31,4 +31,4 @@ client is set to go, just run it (enter port number as second argument)
 $ ./Client 8080
 ```
 
-P.S. the comments are generated with the help of chatGPT)
+P.S. the comments of main.cpp-s are generated with the help of chatGPT)
